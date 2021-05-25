@@ -1,0 +1,22 @@
+{
+  "short_name": "KingSwap",
+  "name": "KingSwap",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "160x160",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+        {
+      "src": "./favicon.ico",
+      "sizes": "160x160",
+      "type": "image/ico",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
